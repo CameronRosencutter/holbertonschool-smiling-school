@@ -1,0 +1,30 @@
+
+button {
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: normal;
+    line-height: normal;
+    height: 50px;
+    align-content: center;
+    justify-content: center;
+    font-size: 16px;
+    padding: 1em 2.5em 1em 2.5em;
+    border: none;
+    border-radius: 30px;
+    text-transform: uppercase;
+    background: #C271FF;
+    box-shadow: 0 0.4em 1em rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+    color: #C271FF;
+    transition: 0.2s;
+    transform: scale(1.02);
+    background-color: white;
+    box-shadow: 0 0.4em 1em rgba(0, 0, 0, 0.1),
+                0 0.4em 1em rgba(0, 0, 0, 0.1),
+                0 0.4em 1em rgba(0, 0, 0, 0.1),
+                0 0.4em 1em rgba(0, 0, 0, 0.1);
+}
