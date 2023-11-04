@@ -60,10 +60,13 @@
   background-position: center center;
   background-color: #071728;
 }
+.header li {
+  font-family: Source Sans Pro;
+}
 .header .GetSchooled h1 {
   margin-top: 200px;
   font-family: Source Sans Pro-Bold;
-  font-size: 61px;
+  font-size: 110px;
   color: white;
 }
 .header .GetSchooled p {
