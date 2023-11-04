@@ -1,4 +1,4 @@
-button {
+.schooledbutton {
   color: #FFF;
   text-align: center;
   font-family: Source Sans Pro;
@@ -17,7 +17,7 @@ button {
   box-shadow: 0 0.4em 1em rgba(0, 0, 0, 0.1);
 }
 
-button:hover {
+.schooledbutton:hover {
   color: #C271FF;
   transition: 0.2s;
   transform: scale(1.02);
@@ -55,9 +55,9 @@ button:hover {
 }
 .header {
   background: url(../images/pic_1.jpg);
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: top;
-  background-size: 100%;
+  background-position: center center;
   background-color: #071728;
 }
 .header .GetSchooled h1 {
@@ -74,4 +74,22 @@ button:hover {
 }
 .header .buttoncontainer {
   margin-top: 40px;
+}
+.header .learnfrompros {
+  margin-top: 230px;
+}
+.header .learnfrompros .learn {
+  font-family: Source Sans Pro-Light;
+}
+.header .proprofile {
+  margin-top: 70px;
+}
+.header .proprofile .profile h1 {
+  font-family: Source Sans Pro-Black;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.header .proprofile .profile p {
+  font-family: Source Sans Pro_Lightit;
+  padding: 0px;
 }/*# sourceMappingURL=styles.css.map */

@@ -1,5 +1,5 @@
 
-button {
+.schooledbutton {
     color: #FFF;
     text-align: center;
     font-family: Source Sans Pro;
@@ -18,7 +18,7 @@ button {
     box-shadow: 0 0.4em 1em rgba(0, 0, 0, 0.1);
 }
 
-button:hover {
+.schooledbutton:hover {
     color: #C271FF;
     transition: 0.2s;
     transform: scale(1.02);
