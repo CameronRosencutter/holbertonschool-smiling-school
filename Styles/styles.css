@@ -102,4 +102,7 @@
 }
 .quoteguys .carousel-item {
   margin-top: 50px;
+}
+.videos .carousel-item {
+  display: flex;
 }/*# sourceMappingURL=styles.css.map */
