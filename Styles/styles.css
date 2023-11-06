@@ -95,4 +95,11 @@
 .header .proprofile .profile p {
   font-family: Source Sans Pro_Lightit;
   padding: 0px;
+}
+
+.quoteguys {
+  background-color: #C271FF;
+}
+.quoteguys .carousel-item {
+  margin-top: 50px;
 }/*# sourceMappingURL=styles.css.map */
