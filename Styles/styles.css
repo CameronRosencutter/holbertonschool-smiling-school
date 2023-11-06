@@ -103,6 +103,6 @@
 .quoteguys .carousel-item {
   margin-top: 50px;
 }
-.videos .carousel-item {
-  display: flex;
+.videogallery .card {
+  min-width: 300px;
 }/*# sourceMappingURL=styles.css.map */
