@@ -173,4 +173,15 @@
 .membership .profile p {
   color: white;
   font-family: Source Sans Pro-Light;
+}
+
+footer {
+  background-color: #071629;
+  display: flex;
+}
+footer .medialogos {
+  margin-left: 200px;
+}
+footer .medialogos img {
+  color: white;
 }/*# sourceMappingURL=styles.css.map */
