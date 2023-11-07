@@ -105,6 +105,7 @@
 }
 .videogallery {
   background-color: white;
+  outline: solid 3px blue;
 }
 .videogallery .videoheader {
   margin-top: 50px;
@@ -113,4 +114,11 @@
 .videogallery .videoheader h1 {
   font-family: Source Sans Pro-Light;
   font-size: 40px;
+}
+
+.videoheader .card-wrapper {
+  border: red solid 2px;
+}
+.videoheader .card-wrapper .card {
+  outline: rgb(19, 187, 50) 3px solid;
 }/*# sourceMappingURL=styles.css.map */

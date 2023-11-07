@@ -1,5 +1,8 @@
 .videogallery {
     background-color: white;
+    outline: solid 3px blue;
+
+    
 
     .videoheader {
         margin-top: 50px;
@@ -8,6 +11,18 @@
         h1 {
             font-family: Source Sans Pro-Light;
             font-size: 40px;
+        }
+    }
+}
+
+
+.videoheader {
+
+    .card-wrapper {
+        border: red solid 2px;
+
+        .card {
+            outline: rgb(19, 187, 50) 3px solid;
         }
     }
 }

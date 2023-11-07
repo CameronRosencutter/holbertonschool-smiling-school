@@ -1,36 +1,3 @@
-body {
-    margin-left: 50px;
-    margin-top: 50px;
-}
-
-.playbutton {
-    position: absolute;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0;
-
-    display: block;
-    margin: auto;
-}
-
-.phillipname {
-    margin-top: 10px;
-    margin-left: 20px;
-}
-
-.starsandlength{
-    margin-top: 10px;
-}
-
-.min {
-    margin-left: 80px;
-}
-
-.card {
-    margin: 50px;
-}
-
-.carouselofvideos {
-    display: flex;
+.carousel-item {
+    border: red solid 3px;
 }
