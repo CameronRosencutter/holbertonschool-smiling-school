@@ -116,9 +116,12 @@
   font-size: 40px;
 }
 
-.videoheader .card-wrapper {
-  border: red solid 2px;
+.card {
+  outline: red solid 5px;
+  position: relative;
 }
-.videoheader .card-wrapper .card {
-  outline: rgb(19, 187, 50) 3px solid;
+.card .playbutton {
+  position: absolute;
+  left: 27%;
+  top: 7%;
 }/*# sourceMappingURL=styles.css.map */

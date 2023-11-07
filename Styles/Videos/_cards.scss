@@ -1,0 +1,10 @@
+.card {
+    outline: red solid 5px;
+    position: relative;
+
+    .playbutton {
+        position: absolute;
+        left: 27%;
+        top: 7%;
+    }
+}
