@@ -103,6 +103,14 @@
 .quoteguys .carousel-item {
   margin-top: 50px;
 }
-.videogallery .card {
-  min-width: 300px;
+.videogallery {
+  background-color: white;
+}
+.videogallery .videoheader {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.videogallery .videoheader h1 {
+  font-family: Source Sans Pro-Light;
+  font-size: 40px;
 }/*# sourceMappingURL=styles.css.map */
