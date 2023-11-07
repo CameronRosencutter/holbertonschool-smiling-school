@@ -147,4 +147,30 @@
   color: #C271FF;
   font-family: Source Sans Pro-SemiBold;
   margin-left: 35px;
+}
+
+.membership {
+  margin-top: 30px;
+  background-color: #071629;
+}
+.membership .title {
+  color: white;
+  font-size: 30px;
+  font-family: Source Sans Pro;
+  margin-bottom: 100px;
+  padding-top: 60px;
+}
+.membership .profile {
+  margin-bottom: 70px;
+}
+.membership .profile h1 {
+  font-family: Source Sans Pro;
+  color: white;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.membership .profile p {
+  color: white;
+  font-family: Source Sans Pro-Light;
 }/*# sourceMappingURL=styles.css.map */

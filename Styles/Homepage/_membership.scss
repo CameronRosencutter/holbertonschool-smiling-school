@@ -1,0 +1,29 @@
+.membership {
+    margin-top: 30px;
+    background-color: #071629;
+
+    .title {
+        color: white;
+        font-size: 30px;
+        font-family: Source Sans Pro;
+        margin-bottom: 100px;
+        padding-top: 60px;
+    }
+
+    .profile {
+        margin-bottom: 70px;
+
+        h1 {
+            font-family: Source Sans Pro;
+            color: white;
+            font-size: 20px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: white;
+            font-family: Source Sans Pro-Light;
+        }
+    }
+}
