@@ -105,7 +105,6 @@
 }
 .videogallery {
   background-color: white;
-  outline: solid 3px blue;
 }
 .videogallery .videoheader {
   margin-top: 50px;
@@ -117,11 +116,35 @@
 }
 
 .card {
-  outline: red solid 5px;
   position: relative;
 }
 .card .playbutton {
   position: absolute;
   left: 27%;
   top: 7%;
+}
+
+.card-body .card-title {
+  font-family: Source Sans Pro-Bold;
+  font-size: 20px;
+}
+.card-body .card-text {
+  font-size: 15px;
+  font-family: Source Sans Pro-Light;
+}
+.card-body .username {
+  margin-bottom: 20px;
+}
+.card-body .username img {
+  margin-right: 20px;
+}
+.card-body .username p {
+  font-family: Source Sans Pro-SemiBold;
+  margin-top: 12px;
+  color: #C271FF;
+}
+.card-body .starsandlength p {
+  color: #C271FF;
+  font-family: Source Sans Pro-SemiBold;
+  margin-left: 35px;
 }/*# sourceMappingURL=styles.css.map */

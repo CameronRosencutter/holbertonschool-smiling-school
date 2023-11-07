@@ -1,10 +1,45 @@
 .card {
-    outline: red solid 5px;
     position: relative;
 
     .playbutton {
         position: absolute;
         left: 27%;
         top: 7%;
+    }
+}
+
+.card-body {
+
+    .card-title {
+        font-family: Source Sans Pro-Bold;
+        font-size: 20px;
+    }
+
+    .card-text {
+        font-size: 15px;
+        font-family: Source Sans Pro-Light;
+    }
+
+    .username {
+        margin-bottom: 20px;
+
+        img {
+            margin-right: 20px;
+        }
+
+        p {
+            font-family: Source Sans Pro-SemiBold;
+            margin-top: 12px;
+            color: #C271FF;
+        }
+    }
+
+    .starsandlength {
+
+        p {
+            color: #C271FF;
+            font-family: Source Sans Pro-SemiBold;
+            margin-left: 35px;
+        }
     }
 }
