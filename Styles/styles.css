@@ -61,8 +61,13 @@
   background-position: center center;
   background-color: #071728;
 }
-.mainheader li {
+.mainheader a {
+  color: white;
   font-family: Source Sans Pro;
+}
+.mainheader a:hover {
+  font-family: Source Sans Pro;
+  color: white;
 }
 .mainheader .GetSchooled h1 {
   margin-top: 200px;
@@ -250,8 +255,13 @@ footer .medialogos img {
   background-position: center center;
   background-color: #071728;
 }
-.header li {
+.header a {
+  color: white;
   font-family: Source Sans Pro;
+}
+.header a:hover {
+  font-family: Source Sans Pro;
+  color: white;
 }
 .header .whatis h1 {
   margin-top: 150px;
