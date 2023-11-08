@@ -15,6 +15,7 @@
   text-transform: uppercase;
   background: #C271FF;
   box-shadow: 0 0.4em 1em rgba(0, 0, 0, 0.1);
+  white-space: nowrap;
 }
 
 .schooledbutton:hover {
@@ -53,46 +54,46 @@
   font-family: Source Sans Pro-ExtraLight;
   src: url(../Fonts/source-sans-pro/SourceSansPro-ExtraLight.otf);
 }
-.header {
+.mainheader {
   background: url(../images/pic_1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   background-color: #071728;
 }
-.header li {
+.mainheader li {
   font-family: Source Sans Pro;
 }
-.header .GetSchooled h1 {
+.mainheader .GetSchooled h1 {
   margin-top: 200px;
   font-family: Source Sans Pro-Bold;
   font-size: 110px;
   color: white;
 }
-.header .GetSchooled p {
+.mainheader .GetSchooled p {
   font-family: Source Sans Pro-SemiBold;
   font-size: 20px;
   word-spacing: 50px;
   color: white;
 }
-.header .buttoncontainer {
+.mainheader .buttoncontainer {
   margin-top: 40px;
 }
-.header .learnfrompros {
+.mainheader .learnfrompros {
   margin-top: 230px;
 }
-.header .learnfrompros .learn {
+.mainheader .learnfrompros .learn {
   font-family: Source Sans Pro-Light;
 }
-.header .proprofile {
+.mainheader .proprofile {
   margin-top: 70px;
 }
-.header .proprofile .profile h1 {
+.mainheader .proprofile .profile h1 {
   font-family: Source Sans Pro-Black;
   font-size: 18px;
   margin-top: 10px;
 }
-.header .proprofile .profile p {
+.mainheader .proprofile .profile p {
   font-family: Source Sans Pro_Lightit;
   padding: 0px;
 }
@@ -184,4 +185,99 @@ footer .medialogos {
 }
 footer .medialogos img {
   color: white;
+}
+
+@font-face {
+  font-family: Source Sans Pro;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Regular.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Black;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Black.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-SemiBold;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Semibold.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Bold;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Bold.otf);
+}
+@font-face {
+  font-family: Source Sans Pro_Lightit;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-LightIt.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Light;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Light.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-ExtraLight;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-ExtraLight.otf);
+}
+@font-face {
+  font-family: Source Sans Pro;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Regular.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Black;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Black.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-SemiBold;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Semibold.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Bold;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Bold.otf);
+}
+@font-face {
+  font-family: Source Sans Pro_Lightit;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-LightIt.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Light;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Light.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-ExtraLight;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-ExtraLight.otf);
+}
+.header {
+  background: url(../images/pic_2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #071728;
+}
+.header li {
+  font-family: Source Sans Pro;
+}
+.header .gopro h1 {
+  margin-top: 150px;
+  font-family: Source Sans Pro;
+  font-size: 37px;
+  letter-spacing: 2;
+  color: white;
+  margin-bottom: 70px;
+}
+.header .gopro p {
+  font-family: Source Sans Pro;
+  color: white;
+}
+.header .buttoncontainer {
+  margin-top: 40px;
+}
+
+.griddiv .gridsheet {
+  border-bottom: white solid 2px;
+}
+.griddiv .gridsheet p {
+  color: white;
+  font-family: Source Sans Pro-light;
+  font-size: 18px;
+  outline: blue solid 2px;
+}
+.griddiv .gridsheet svg {
+  outline: green solid 2px;
 }/*# sourceMappingURL=styles.css.map */
