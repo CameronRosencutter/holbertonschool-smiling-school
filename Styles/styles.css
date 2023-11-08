@@ -280,4 +280,11 @@ footer .medialogos img {
 }
 .griddiv .gridsheet svg {
   outline: green solid 2px;
+}
+
+.buttonsrow {
+  outline: red solid 3px;
+}
+.buttonsrow .buttoncontainer {
+  outline: blue solid 3px;
 }/*# sourceMappingURL=styles.css.map */
