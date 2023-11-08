@@ -335,4 +335,31 @@ footer .medialogos img {
   padding: 20px;
   height: 100px;
   border-bottom: solid white 1px;
+}
+
+.FAQ {
+  background-color: white;
+}
+.FAQ .title {
+  margin-top: 100px;
+  font-family: Source Sans Pro-light;
+  margin: 0px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: black;
+}
+
+.howdiswork {
+  margin-bottom: 30px;
+}
+.howdiswork h1 {
+  font-family: Source Sans Pro-Bold;
+  font-size: 20px;
+  margin-bottom: 30px;
+  color: rgb(0, 0, 0);
+}
+.howdiswork p {
+  font-family: Source Sans Pro-light;
+  min-width: 300px;
+  max-width: 400px;
 }/*# sourceMappingURL=styles.css.map */
