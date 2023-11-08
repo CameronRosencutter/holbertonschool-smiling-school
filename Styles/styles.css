@@ -461,4 +461,24 @@ footer .medialogos img {
   color: white;
   margin-top: 50px;
   padding-bottom: 50px;
+}
+
+.navigationarea {
+  background-color: #C271FF;
+  border: red solid 2px;
+}
+.navigationarea input.form-control {
+  color: white;
+  font-size: 20px;
+  background-color: #c89af9;
+}
+.navigationarea button {
+  color: rgb(255, 255, 255);
+  background-color: #c89af9;
+}
+.navigationarea h1 {
+  font-size: 16px;
+  text-align: left;
+  font-family: Source Sans Pro-light;
+  color: white;
 }/*# sourceMappingURL=styles.css.map */
