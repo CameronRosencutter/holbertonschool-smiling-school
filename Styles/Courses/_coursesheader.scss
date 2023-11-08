@@ -1,0 +1,30 @@
+@import '../fonts';
+
+@import '../fonts';
+
+.coursesheader {
+    background: url(../images/pic_3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #071728;
+
+
+    a {
+        color: white;
+        font-family: Source Sans Pro;
+    }
+
+    a:hover {
+        font-family: Source Sans Pro;
+        color: white;
+    }
+}
+
+
+.dontcry {
+    font-family: spincycle_ot;
+    color: white;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}

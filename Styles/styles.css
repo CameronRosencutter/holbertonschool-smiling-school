@@ -54,6 +54,10 @@
   font-family: Source Sans Pro-ExtraLight;
   src: url(../Fonts/source-sans-pro/SourceSansPro-ExtraLight.otf);
 }
+@font-face {
+  font-family: spincycle_ot;
+  src: url(../Fonts/source-sans-pro/Coiny-Regular.ttf);
+}
 .mainheader {
   background: url(../images/pic_1.jpg);
   background-size: cover;
@@ -221,6 +225,10 @@ footer .medialogos img {
   src: url(../Fonts/source-sans-pro/SourceSansPro-ExtraLight.otf);
 }
 @font-face {
+  font-family: spincycle_ot;
+  src: url(../Fonts/source-sans-pro/Coiny-Regular.ttf);
+}
+@font-face {
   font-family: Source Sans Pro;
   src: url(../Fonts/source-sans-pro/SourceSansPro-Regular.otf);
 }
@@ -247,6 +255,10 @@ footer .medialogos img {
 @font-face {
   font-family: Source Sans Pro-ExtraLight;
   src: url(../Fonts/source-sans-pro/SourceSansPro-ExtraLight.otf);
+}
+@font-face {
+  font-family: spincycle_ot;
+  src: url(../Fonts/source-sans-pro/Coiny-Regular.ttf);
 }
 .header {
   background: url(../images/pic_2.jpg);
@@ -362,4 +374,91 @@ footer .medialogos img {
   font-family: Source Sans Pro-light;
   min-width: 300px;
   max-width: 400px;
+}
+
+@font-face {
+  font-family: Source Sans Pro;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Regular.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Black;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Black.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-SemiBold;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Semibold.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Bold;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Bold.otf);
+}
+@font-face {
+  font-family: Source Sans Pro_Lightit;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-LightIt.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Light;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Light.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-ExtraLight;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-ExtraLight.otf);
+}
+@font-face {
+  font-family: spincycle_ot;
+  src: url(../Fonts/source-sans-pro/Coiny-Regular.ttf);
+}
+@font-face {
+  font-family: Source Sans Pro;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Regular.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Black;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Black.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-SemiBold;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Semibold.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Bold;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Bold.otf);
+}
+@font-face {
+  font-family: Source Sans Pro_Lightit;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-LightIt.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-Light;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-Light.otf);
+}
+@font-face {
+  font-family: Source Sans Pro-ExtraLight;
+  src: url(../Fonts/source-sans-pro/SourceSansPro-ExtraLight.otf);
+}
+@font-face {
+  font-family: spincycle_ot;
+  src: url(../Fonts/source-sans-pro/Coiny-Regular.ttf);
+}
+.coursesheader {
+  background: url(../images/pic_3.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #071728;
+}
+.coursesheader a {
+  color: white;
+  font-family: Source Sans Pro;
+}
+.coursesheader a:hover {
+  font-family: Source Sans Pro;
+  color: white;
+}
+
+.dontcry {
+  font-family: spincycle_ot;
+  color: white;
+  margin-top: 50px;
+  padding-bottom: 50px;
 }/*# sourceMappingURL=styles.css.map */
