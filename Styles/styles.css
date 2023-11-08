@@ -253,7 +253,7 @@ footer .medialogos img {
 .header li {
   font-family: Source Sans Pro;
 }
-.header .gopro h1 {
+.header .whatis h1 {
   margin-top: 150px;
   font-family: Source Sans Pro;
   font-size: 37px;
@@ -261,9 +261,10 @@ footer .medialogos img {
   color: white;
   margin-bottom: 70px;
 }
-.header .gopro p {
-  font-family: Source Sans Pro;
+.header .whatis p {
+  font-family: Source Sans Pro-Bold;
   color: white;
+  font-size: 80px;
 }
 .header .buttoncontainer {
   margin-top: 40px;
@@ -289,9 +290,6 @@ footer .medialogos img {
   outline: blue solid 3px;
 }
 
-.allthreebuttons {
-  outline: green solid 2px;
-}
 .allthreebuttons h1 {
   color: white;
   font-family: Source Sans Pro-semibold;
@@ -303,4 +301,28 @@ footer .medialogos img {
   color: white;
   font-size: 15px;
   margin-bottom: 30px;
+}
+
+.allthreegrids {
+  margin: 30px;
+}
+.allthreegrids .spaceleft h1 {
+  height: 90px;
+  font-family: Source Sans Pro-light;
+  font-size: 20px;
+  color: white;
+}
+.allthreegrids .spaceleft div {
+  height: 100px;
+  border-bottom: white solid 1px;
+}
+.allthreegrids .checkmiddle .svgcheck {
+  padding: 20px;
+  height: 100px;
+  border-bottom: solid white 1px;
+}
+.allthreegrids .checkright .svgcheck {
+  padding: 20px;
+  height: 100px;
+  border-bottom: solid white 1px;
 }/*# sourceMappingURL=styles.css.map */
