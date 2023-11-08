@@ -287,4 +287,20 @@ footer .medialogos img {
 }
 .buttonsrow .buttoncontainer {
   outline: blue solid 3px;
+}
+
+.allthreebuttons {
+  outline: green solid 2px;
+}
+.allthreebuttons h1 {
+  color: white;
+  font-family: Source Sans Pro-semibold;
+  margin-top: 35px;
+  font-size: 40px;
+}
+.allthreebuttons p {
+  font-family: Source Sans Pro-light;
+  color: white;
+  font-size: 15px;
+  margin-bottom: 30px;
 }/*# sourceMappingURL=styles.css.map */
