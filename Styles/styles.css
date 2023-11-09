@@ -195,6 +195,13 @@ footer .medialogos {
 footer .medialogos img {
   color: white;
 }
+footer svg {
+  color: white;
+}
+
+svg {
+  color: white;
+}
 
 @font-face {
   font-family: Source Sans Pro;
