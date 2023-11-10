@@ -333,7 +333,7 @@ svg {
 }
 
 .allthreegrids {
-  margin: 30px;
+  margin: px;
 }
 .allthreegrids .spaceleft h1 {
   height: 90px;
@@ -346,12 +346,10 @@ svg {
   border-bottom: white solid 1px;
 }
 .allthreegrids .checkmiddle .svgcheck {
-  padding: 20px;
   height: 100px;
   border-bottom: solid white 1px;
 }
 .allthreegrids .checkright .svgcheck {
-  padding: 20px;
   height: 100px;
   border-bottom: solid white 1px;
 }
